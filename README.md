@@ -13,7 +13,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xy-jxn&show_icons=true&locale=en" alt="xy-jxn" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xy-jxn&" alt="xy-jxn" />< /p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xy-jxn&" alt="xy-jxn" /> </p>
 
 
 <!--
