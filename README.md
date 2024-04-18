@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요 👋주여진입니다</h1>
 <h3 align="center">소프트웨어마이스터고등학교 8기 주여진입니다.</h3>
 
-- 📫 방법 나에게 연락하려면 **s24016@gsm.hs.kr**
+- 📫 이메일 주소 **s24016@gsm.hs.kr**
 
 <p align="left">
 </p>
