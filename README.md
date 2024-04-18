@@ -3,14 +3,6 @@
 
 - 📫 이메일 주소 **s24016@gsm.hs.kr**
 
-<p align="left">
-</p>
-
-<p><img align=" 왼쪽" src="https://github-readme-stats.vercel.app/api/top-langs?username=xy-jxn&show_icons=true&locale=en&layout=compact" alt="xy-jxn" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xy-jxn&show_icons=true&locale=en" alt="xy-jxn" /> </p>
-
-
 <!--
 **xy-jxn/xy-jxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
