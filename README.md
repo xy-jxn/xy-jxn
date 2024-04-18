@@ -5,7 +5,6 @@
 
 - 📫 방법 나에게 연락하려면 **s24016@gsm.hs.kr**
 
-<h3 align="left">나와 연결하세요:</h3>
 <p align="left">
 </p>
 
