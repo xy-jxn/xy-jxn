@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋주여인입니다</h1>
+<h1 align="center">안녕하세요 👋주여진입니다</h1>
 <h3 align="center">소프트웨어마이스터고등학교 8기 주여진입니다.</h3>
 
 <p align= "left"> <img src="https://komarev.com/ghpvc/?username=xy-jxn&label=Profile%20views&color=0e75b6&style=plat" alt="xy-jxn" /> </p>
@@ -7,14 +7,13 @@
 
 <h3 align="left">나와 연결하세요:</h3>
 <p align="left">
-<a href="https://instagram.com /xy_jxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="xy_jxn" height="30" width="40" /></a> </p>
-<p>
+</p>
 
-<img align="left" src="https://github-readme-stats .vercel.app/api/top-langs?username=xy-jxn&show_icons=true&locale=en&layout=compact" alt="xy-jxn" /></p>
+<p><img align=" 왼쪽" src="https://github-readme-stats.vercel.app/api/top-langs?username=xy-jxn&show_icons=true&locale=en&layout=compact" alt="xy-jxn" /></p>
 
-<p> <img align="center" src= "https://github-readme-stats.vercel.app/api?username=xy-jxn&show_icons=true&locale=en" alt="xy-jxn" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xy-jxn&show_icons=true&locale=en" alt="xy-jxn" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xy-jxn&" alt="xy-jxn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xy-jxn&" alt="xy-jxn" />< /p>
 
 
 <!--
