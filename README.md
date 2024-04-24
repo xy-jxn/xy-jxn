@@ -7,7 +7,7 @@
 > <h4>📫 이메일 주소</h4>
  **s24016@gsm.hs.kr**
 > <h4>🌟 인스타그램</h4>
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/xy_jxn">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/xy_jxn/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
